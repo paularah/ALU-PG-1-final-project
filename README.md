@@ -1,10 +1,10 @@
 # ALU Programming I Final Project 
-##Project Description
+## Project Description
 This is a platform that brings together the staff and students in the ALU community.
 The platform holds a database of students and staffs in the ALU community and also
 makes it easy to communicate with each other. 
 
-##Features
+## Features
 * Login: Users can log in with a username and a password
 * Signup: Users can signup with a username and a password
 * Create Profile: Users can create a profile of the data
